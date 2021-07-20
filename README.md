@@ -26,7 +26,7 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[Deploy with Firebase Hosting](https://letmeask-adsonatural.web.app/)
+[Firebase Hosting](https://letmeask-adsonatural.web.app/)
 
 ## 🚀 Getting started
 
